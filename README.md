@@ -254,6 +254,7 @@ If this card works with your air purifier, please open a PR and your model to th
 - Philips AirPurifier AC3858/50 (partially)
 - SmartMI Air Purifier
 - Ikea Starkvind
+- Philips AirPurifier AC3059/50 (partially)
 - [_Your purifier?_][edit-readme]
 
 ## Development
